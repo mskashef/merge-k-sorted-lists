@@ -1,0 +1,28 @@
+{
+  "name": "@mskashef/merge-k-sorted-lists",
+  "version": "1.0.0",
+  "description": "Merge k sorted lists",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mskashef/merge-k-sorted-lists"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "merge",
+    "sorted",
+    "multiple",
+    "sort",
+    "list",
+    "lists",
+    "array",
+    "arrays"
+  ],
+  "author": "mskashef",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
